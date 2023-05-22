@@ -1,0 +1,6 @@
+docopt
+fs
+lxml
+paramiko
+Pillow
+requests
